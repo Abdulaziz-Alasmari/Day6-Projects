@@ -1,0 +1,16 @@
+/home/z/tuwaiq/Matches/bin/Debug/net5.0/Matches
+/home/z/tuwaiq/Matches/bin/Debug/net5.0/Matches.deps.json
+/home/z/tuwaiq/Matches/bin/Debug/net5.0/Matches.runtimeconfig.json
+/home/z/tuwaiq/Matches/bin/Debug/net5.0/Matches.runtimeconfig.dev.json
+/home/z/tuwaiq/Matches/bin/Debug/net5.0/Matches.dll
+/home/z/tuwaiq/Matches/bin/Debug/net5.0/ref/Matches.dll
+/home/z/tuwaiq/Matches/bin/Debug/net5.0/Matches.pdb
+/home/z/tuwaiq/Matches/obj/Debug/net5.0/Matches.csprojAssemblyReference.cache
+/home/z/tuwaiq/Matches/obj/Debug/net5.0/Matches.GeneratedMSBuildEditorConfig.editorconfig
+/home/z/tuwaiq/Matches/obj/Debug/net5.0/Matches.AssemblyInfoInputs.cache
+/home/z/tuwaiq/Matches/obj/Debug/net5.0/Matches.AssemblyInfo.cs
+/home/z/tuwaiq/Matches/obj/Debug/net5.0/Matches.csproj.CoreCompileInputs.cache
+/home/z/tuwaiq/Matches/obj/Debug/net5.0/Matches.dll
+/home/z/tuwaiq/Matches/obj/Debug/net5.0/ref/Matches.dll
+/home/z/tuwaiq/Matches/obj/Debug/net5.0/Matches.pdb
+/home/z/tuwaiq/Matches/obj/Debug/net5.0/Matches.genruntimeconfig.cache
