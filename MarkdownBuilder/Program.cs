@@ -105,7 +105,6 @@ namespace Builder
             string result = md.addCustomizedTag("<div dir =\"rtl\"> ")
             .addNewLine()
             .addString("وصف المشروع :", 2)
-            .addHorizontalLine()
             .addString("المشروع ينقسم الى قسمين:" , 3)
             .addNewLine()
             .addULitem(new string[]{"Find matches:"})
